@@ -17,6 +17,7 @@ body {
   */
   header img {
     width: 100%;
+    overflow: visible;
 }
 
 /*
@@ -50,6 +51,7 @@ nav {
     background: #23232e;
     height: 8vh;
     padding: 6px;
+    overflow: visible;
 }
 .nav-list{
     list-style: none;
