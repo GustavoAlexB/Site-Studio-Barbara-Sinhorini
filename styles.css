@@ -217,7 +217,7 @@ nav a:hover {
     margin: 50px;
     align-items: center;
     border-radius: 20px;
-    overflow: hidden;
+    overflow: visible;
     padding: 32px;
     text-shadow: 0.1em 0.0.1em rgb(168, 168, 168);
   }
@@ -235,7 +235,7 @@ nav a:hover {
     margin: 50px;
     align-items: center;
     border-radius: 20px;
-    overflow: hidden;
+    overflow: visible;
     padding: 32px;
     color: white;
     text-shadow: 0.1em 0.0.1em rgb(109, 109, 109);
